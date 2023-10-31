@@ -1,6 +1,6 @@
 # Jellyfish 🎐
 
-Projeto: Site interativo Águas-Vivas - Banco de Dados + Programação Mobile
+Projeto: Site interativo Ágυαѕ-νιναѕ - Banco de Dados + Programação Mobile
 🎭 Aluna: Vitória Dutra Soares (15 anos)
 Colégio Estadual Castelo Branco. ⚜
 Técnico: Desenvolvimento de Sistema Segundo Ano A. 👨‍💻
